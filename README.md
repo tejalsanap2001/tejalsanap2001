@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @tejalsanap2001
-- 💌 Email - tejalsanap55@gmail.com
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate with Open Source Community
-- 📫 How to reach me: tejalsanap55@gmail.com 
+
